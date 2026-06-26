@@ -1,0 +1,25 @@
+# Virtual Environments Block
+venv/
+.venv/
+env/
+/venv/
+
+# Massive Image Data Arrays Block
+*.jpg
+*.jpeg
+*.png
+*.pth
+datasets/
+Datasets/
+Stage1_Dataset/
+stage1_dataset/
+Tea_Betel_Leaf_Final_Dataset/
+**/Stage1_Dataset/**
+**/*.jpg
+**/*.png
+
+# Administrative Cache Blks
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
