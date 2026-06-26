@@ -1,0 +1,14 @@
+name: plant-pathology-env
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - streamlit
+  - numpy
+  - pillow
+  - pytorch::pytorch-cpu
+  - pytorch::torchvision-cpu
+  - pip
+  - pip:
+    - pytorch-grad-cam
