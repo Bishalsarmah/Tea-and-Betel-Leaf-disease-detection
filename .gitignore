@@ -23,3 +23,6 @@ Tea_Betel_Leaf_Final_Dataset/
 __pycache__/
 *.pyc
 .DS_Store
+'nCode/Inference_Streamlit/app.py
+'nCode/Inference_Streamlit/plant_pathology_dashboard.html
+'nCode/Inference_Streamlit/test_inference.py
